@@ -1,0 +1,17 @@
+title: "My Jekyll Site"
+email: ""
+description: "Personal site by dharasudhan"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dharasudhan.github.io" # the base hostname & protocol for your site
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+
+permalink: /:categories/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
