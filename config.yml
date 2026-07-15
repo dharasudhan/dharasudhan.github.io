@@ -2,7 +2,7 @@ title: "Welcome to LoopZero Tech Apps"
 email: ""
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mds.github.io" # the base hostname & protocol for your site
+url: "https://dharasudhan.github.io" # the base hostname & protocol for your site
 
 theme: minima
 plugins:
