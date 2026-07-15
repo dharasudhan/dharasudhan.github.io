@@ -15,4 +15,4 @@ permalink: /:categories/:title/
 exclude:
   - Gemfile
   - Gemfile.lock
-  - app-ads.txt
+  
